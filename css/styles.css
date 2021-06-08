@@ -1,0 +1,8 @@
+.pager .active a{
+    background-color: #000000;
+    color: #ffffff;
+}
+.pager a:hover{
+    background-color: #000000 !important;
+    color: #ffffff;
+}
